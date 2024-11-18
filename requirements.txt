@@ -1,0 +1,14 @@
+streamlit
+tiktoken
+unstructured
+ragstack-ai
+PyPDF2
+python-dotenv
+psycopg2-binary
+altair
+urllib3
+boto3
+transformers
+tensorflow
+flax
+anthropic
